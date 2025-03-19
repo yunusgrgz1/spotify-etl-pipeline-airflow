@@ -2,7 +2,7 @@
 
 <p float="left">
   <img src="https://raw.githubusercontent.com/yunusgrgz1/spotify-etl-pipeline-airflow/refs/heads/main/images/apache%20airflow.png" width="45%" />
-  <img src="https://raw.githubusercontent.com/yunusgrgz1/spotify-etl-pipeline-airflow/refs/heads/main/images/spotfiy.jpg" width="50%" height="410½" />
+  <img src="https://raw.githubusercontent.com/yunusgrgz1/spotify-etl-pipeline-airflow/refs/heads/main/images/spotfiy.jpg" width="50%" height="360½" />
 </p>
 
 
